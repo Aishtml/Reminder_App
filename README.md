@@ -7,7 +7,6 @@ A clean, modern task reminder application built with **Flutter**, featuring task
 ## ✨ Features
 
 - 📝 Add tasks with title, description, date, and time range
-- 📆 Calendar and time pickers for user-friendly input
 - 📱 Responsive design for mobile
 - 🚀 Clean and modular code structure (DRY principles)
 - 🔁 Bottom navigation with Home, Add Task, and Profile tabs
@@ -70,5 +69,6 @@ This project is open source under the MIT License. See the LICENSE file for deta
 
 ## 👨‍💻 Author
 ### Your Name
-📧 aisdev99@gmail.com
-🔗 github.com/Aisdev979, gitub.com/Aishtml
+- 📧 aisdev99@gmail.com
+- 🔗 github.com/Aisdev979
+- 🔗 gitub.com/Aishtml
