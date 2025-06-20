@@ -42,8 +42,8 @@ lib/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/remindera_app.git
-cd remindera_app
+git clone https://github.com/your-username/Reminder_App.git
+cd Reminder_App
 flutter pub get
 flutter run
 ```
