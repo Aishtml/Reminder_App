@@ -49,7 +49,7 @@ flutter pub get
 flutter run
 ```
 
-##✏️ Customization
+## ✏️ Customization
 You can easily:
 
 Update colors in styles.dart
@@ -58,17 +58,17 @@ Add more screens by extending bottom_navigation.dart
 
 Connect to a backend or local database for persistent tasks
 
-##🧠 DRY Architecture Principles Applied
+## 🧠 DRY Architecture Principles Applied
 All UI styles (borders, text styles) are defined once in styles.dart
 
 Reusable widgets like CustomTextField and CustomBottomNavigation eliminate repetition
 
 Navigation is centralized for maintainability
 
-##📃 License
+## 📃 License
 This project is open source under the MIT License. See the LICENSE file for details.
 
-##👨‍💻 Author
-Your Name
+## 👨‍💻 Author
+### Your Name
 📧 aisdev99@gmail.com
 🔗 github.com/Aisdev979, gitub.com/Aishtml
